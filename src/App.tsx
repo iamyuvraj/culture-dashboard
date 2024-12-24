@@ -3,7 +3,7 @@ export default function App() {
   
   return (
     <h1 className={headingClasses}>
-      Vite + React + TS
+      Culture Dashboard with Vite + React + TS
     </h1>
   );
 }
